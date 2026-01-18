@@ -38,7 +38,7 @@ I design language agents that maintain evolving internal state across time, rath
 ## Selected Work
 
 - **Continuity of Mind:** https://github.com/project194-cognitivellm/cognitivellm/tree/eduardo
-  Episodic and conceptual memory system for long-horizon language agents.  
+    Episodic and conceptual memory system for long-horizon language agents.  
   Experience abstraction, belief persistence, and retrieval.
   Architectural experiments in persistent cognition and reflective loops.  
   Explores how structural constraints reduce uncertainty at decode time.
