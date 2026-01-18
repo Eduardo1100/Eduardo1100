@@ -37,20 +37,15 @@ I design language agents that maintain evolving internal state across time, rath
 
 ## Selected Work
 
-- **Episodex**  
+- [**Continuity of Mind**](https://github.com/project194-cognitivellm/cognitivellm/tree/eduardo)
   Episodic and conceptual memory system for long-horizon language agents.  
-  Focus: experience abstraction, belief persistence, and retrieval.
-
-- **Continuity of Mind**  
+  Experience abstraction, belief persistence, and retrieval.
   Architectural experiments in persistent cognition and reflective loops.  
   Explores how structural constraints reduce uncertainty at decode time.
 
 - **Ghosts in the Loop**  
   Proxy tuning and logit-level interventions for reasoning enhancement.  
   Studies the interpretability–performance feedback loop.
-
-- **Lean4 Agent**  
-  Retrieval-augmented theorem proving with planning, generation, and verification agents.
 
 - **Saliency-Guided Rendering**  
   CLIP-based saliency maps for adaptive perception in graphics pipelines.
